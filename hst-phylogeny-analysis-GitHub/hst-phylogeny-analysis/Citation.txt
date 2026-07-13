@@ -1,0 +1,25 @@
+# Citation
+
+If you use these scripts or the associated dataset, please cite:
+
+## Plain text
+
+Hajieghrari, B., Salahi, H., & Kamalizadeh, M. (2026). Molecular Evolution
+and Phylogeny of the Plant HASTY Family, the Plant Orthologs of Exportin-5.
+*[Journal Name]* — <!-- TODO: fill in volume, issue, pages, and DOI once assigned -->.
+
+## BibTeX
+
+```bibtex
+@article{hajieghrari2026hst,
+  title   = {Molecular Evolution and Phylogeny of the Plant HASTY Family, the Plant Orthologs of Exportin-5},
+  author  = {Hajieghrari, Behzad and Salahi, Hadiseh and Kamalizadeh, Mojahed},
+  journal = {[Journal Name]},
+  year    = {2026},
+  note    = {TODO: add volume, pages, and DOI}
+}
+```
+
+> **Note:** the journal name, volume/issue, pages, and DOI are still
+> placeholders (`[Journal Name]`) — update this file once the manuscript
+> is accepted/published.

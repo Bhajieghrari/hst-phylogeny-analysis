@@ -1,0 +1,10 @@
+
+## Notes
+
+The dataset includes sequences from:
+- Chlorophyta (green algae)
+- Bryophytes (early land plants)
+- Monocots (Poaceae, Arecaceae, Orchidaceae, etc.)
+- Basal eudicots
+- Core eudicots (Brassicaceae, Fabaceae, Malvaceae, etc.)
+- Outgroups (metazoan XPO5 sequences)

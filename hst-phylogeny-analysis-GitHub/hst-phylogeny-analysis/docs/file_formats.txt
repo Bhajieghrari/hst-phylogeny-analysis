@@ -1,0 +1,7 @@
+
+## File Formats
+
+- `.csv` - Tabular data (readable in Excel, Python, R)
+- `.treefile` - Newick format tree (readable in FigTree, iTOL)
+- `.nex` - NEXUS format (readable in SplitsTree)
+- `.pdb` - Protein Data Bank format (readable in PyMOL, Chimera)
